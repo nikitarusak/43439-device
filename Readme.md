@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Nikita Rusak](https://up.htmlacademy.ru/htmlcss/19/user/43439).
-* Наставник: `Неизвестно`.
+* Наставник: [Unknown Raccoon].
 
 ---
 
